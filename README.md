@@ -81,8 +81,8 @@ endmodule
 **Output/TIMING Waveform**
 ![3 2](https://github.com/SHARUKESHR/HALF_ADDER_SUBTRACTOR/assets/144870484/43b10190-74e5-4c4b-9edc-bb088eed7b20)
 
-[3 3](https://github.com/SHARUKESHR/HALF_ADDER_SUBTRACTOR/assets/144870484/e608818b-618b-4bab-9204-e448c0d68015)
-KESHR/HALF_ADDER_SUBTRACTOR/assets/144870484/06271e07-70e0-4ce4-b628-bf45fe2d4fbe)
+![3 3](https://github.com/SHARUKESHR/HALF_ADDER_SUBTRACTOR/assets/144870484/79c6cab0-97e8-4760-b372-4648d881a9f4)
+
 
 
 **Result:**
